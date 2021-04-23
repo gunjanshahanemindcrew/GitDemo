@@ -4,5 +4,5 @@ const add = (x, y, z) => {
 };
 
 let a = [2, 3, 5];
-console.log("Added", add(...a));
-console.log("Hello World on Initial File");
+console.log("Addeddd", add(...a));
+console.log("Hello World on Initial File!!!");
